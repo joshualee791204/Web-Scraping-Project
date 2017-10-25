@@ -1,0 +1,622 @@
+ParkName,Stars,SiteType,Facility_Area,Longtitude,Site,Reviews,Maximum_Number_of_People,Location,Pets,Latitude,Equiplength_or_Driveway
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,001",7010,6,Mather CampGround,Pets Allowed,36.050649,16 Back-In
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,002",7010,6,Mather CampGround,Pets Allowed,36.050649,16 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,003",7010,6,Mather CampGround,Pets Allowed,36.050649,16 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,004",7010,6,Mather CampGround,Pets Allowed,36.050649,16 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,005",7010,6,Mather CampGround,Pets Allowed,36.050649,16 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,006",7010,6,Mather CampGround,Pets Allowed,36.050649,16 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,007",7010,6,Mather CampGround,Pets Allowed,36.050649,16 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,008",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,009",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,010",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,RV NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,011",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,012",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,013",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,014",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,015",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,016",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,018",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,019",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,021",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,022",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,026",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,027",7010,6,Mather CampGround,Pets Allowed,36.050649,20 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,028",7010,6,Mather CampGround,Pets Allowed,36.050649,20 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,029",7010,6,Mather CampGround,Pets Allowed,36.050649,0 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,030",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,058",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,059",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,060",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,061",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,062",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,063",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,064",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,065",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,066",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,067",7010,6,Mather CampGround,Pets Allowed,36.050649,25 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,068",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,069",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,070",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,071",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,073",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,074",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,075",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,076",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,031",7010,6,Mather CampGround,Pets Allowed,36.050649,20 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,077",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,078",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,079",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,080",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,081",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,082",7010,6,Mather CampGround,Pets Allowed,36.050649,20 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,135",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,032",7010,6,Mather CampGround,Pets Allowed,36.050649,20 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,033",7010,6,Mather CampGround,Pets Allowed,36.050649,20 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,034",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,035",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,036",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,037",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,083",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,136",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,137",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,141",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,143",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,144",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,145",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,189",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,038",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,039",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,040",7010,6,Mather CampGround,Pets Allowed,36.050649,0 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,041",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,042",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,043",7010,6,Mather CampGround,Pets Allowed,36.050649,25 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,044",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,109",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,146",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,147",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,148",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,149",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,150",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,190",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,191",7010,6,Mather CampGround,Pets Allowed,36.050649,25 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,192",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,193",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,194",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,195",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,196",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,045",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,046",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,047",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,048",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,049",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,050",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,214",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,110",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,111",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,112",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,113",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,114",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,115",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,116",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,151",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,152",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,153",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,154",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,155",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,156",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,084",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,197",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,198",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,199",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,200",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,201",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,202",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,052",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,054",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,055",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,056",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Aspen Loop (Sites 1-59),-112.12115,"Map
+,057",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,215",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,216",7010,6,Mather CampGround,Pets Allowed,36.050649,15
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,217",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,218",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,219",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,220",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,117",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,118",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,119",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,120",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,121",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,122",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,157",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,158",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,159",7010,6,Mather CampGround,Pets Allowed,36.050649,0 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,160",7010,6,Mather CampGround,Pets Allowed,36.050649,0 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,161",7010,6,Mather CampGround,Pets Allowed,36.050649,0 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,162",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,163",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,085",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,086",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,087",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,088",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,089",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,203",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,204",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,205",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,206",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,207",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,208",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,164",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,221",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,222",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,223",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,224",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,225",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,226",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,123",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,124",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,125",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,126",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,127",7010,6,Mather CampGround,Pets Allowed,36.050649,24 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,128",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,129",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,ADA Sites,-112.12115,"Map
+,A020",7010,"6
+",Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,090",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,091",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,092",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,093",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,209",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,210",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,165",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,166",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,167",7010,6,Mather CampGround,Pets Allowed,36.050649,0 Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,227",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,228",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,229",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,230",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,130",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,132",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,133",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,134",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,241",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,ADA Sites,-112.12115,"Map
+,A023",7010,"6
+",Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,ADA Sites,-112.12115,"Map
+,A051",7010,"6
+",Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,ADA Sites,-112.12115,"Map
+,A053",7010,"6
+",Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,ADA Sites,-112.12115,"Map
+,A131",7010,"6
+",Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,ADA Sites,-112.12115,"Map
+,A278",7010,"6
+",Mather CampGround,Pets Allowed,36.050649,25 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,ADA Sites,-112.12115,"Map
+,A303",7010,"6
+",Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,268",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,094",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,RV NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,095",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,096",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,097",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,098",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,099",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,299",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,211",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,212",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,213",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,168",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,169",7010,6,Mather CampGround,Pets Allowed,36.050649,0 Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,170",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,171",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,172",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,231",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,232",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,233",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,234",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,235",7010,6,Mather CampGround,Pets Allowed,36.050649,15
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,236",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,242",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,243",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,244",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,245",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,246",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,247",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,270",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,272",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,274",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,276",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,277",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,279",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,100",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,101",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,102",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,STANDARD NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,103",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,104",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,105",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,300",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,301",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,302",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,304",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,306",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,307",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,173",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,174",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,175",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,176",7010,6,Mather CampGround,Pets Allowed,36.050649,19 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,177",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,238",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,240",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,248",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,250",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,251",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,252",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,253",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,254",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,255",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,281",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,282",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,283",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,284",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,285",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,286",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Fir Loop (Sites 60-106),-112.12115,"Map
+,106",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,107",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,108",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,308",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,309",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,310",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,311",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,312",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,313",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,178",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,179",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,180",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,181",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,182",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,183",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,RV NONELECTRIC,Juniper Loop (Sites 107-184) ,-112.12115,"Map
+,184",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,256",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,257",7010,6,Mather CampGround,Pets Allowed,36.050649,15 Back-In
+GrandCanyon,4.6,RV NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,258",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,259",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,260",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,287",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,288",7010,6,Mather CampGround,Pets Allowed,36.050649,21 Back-In
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,289",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,290",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,291",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,292",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,293",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,314",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,315",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,317",7010,6,Mather CampGround,Pets Allowed,36.050649, Pull-Through
+GrandCanyon,4.6,GROUP TENT ONLY AREA NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,001",7010,50,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,GROUP TENT ONLY AREA NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,002",7010,50,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,GROUP TENT ONLY AREA NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,003",7010,50,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,185",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,186",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,187",7010,6,Mather CampGround,Pets Allowed,36.050649, Back-In
+GrandCanyon,4.6,RV NONELECTRIC,Maple Loop (Sites 185-200) ,-112.12115,"Map
+,188",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,261",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,262",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,STANDARD NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,263",7010,6,Mather CampGround,Pets Allowed,36.050649,27 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Oak Loop (Sites 201-264) ,-112.12115,"Map
+,264",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,294",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,295",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,296",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,297",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,RV NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,298",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,GROUP TENT ONLY AREA NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,004",7010,25,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,GROUP TENT ONLY AREA NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,005",7010,25,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,GROUP TENT ONLY AREA NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,006",7010,50,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,GROUP TENT ONLY AREA NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,007",7010,50,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,EQUESTRIAN NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,HA",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,266A",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,TENT ONLY NONELECTRIC,Pine Loop (Sites 265-319) ,-112.12115,"Map
+,266B",7010,6,Mather CampGround,Pets Allowed,36.050649,
+GrandCanyon,4.6,EQUESTRIAN NONELECTRIC,Sage Loop 1-7,-112.12115,"Map
+,HB",7010,6,Mather CampGround,Pets Allowed,36.050649,30 Pull-Through
